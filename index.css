@@ -1,0 +1,14 @@
+/* Estilos CSS para la card del Pokémon */
+.pokemon-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+/* Estilos CSS para los mensajes de error */
+.error {
+    color: red;
+}
