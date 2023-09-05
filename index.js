@@ -68,8 +68,8 @@ function renderError(errorMessage) {
     pokemonContainer.innerHTML = '';
 
     const errorImage = document.createElement('img');
-    errorImage.src = 'error404.png'; // 
-    errorImage.style.width = '400px'; // 
+    errorImage.src = 'error404.png';  
+    errorImage.style.width = '400px';  
 
     const errorText = document.createElement('p');
     errorText.textContent = errorMessage;
